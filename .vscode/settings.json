@@ -1,0 +1,15 @@
+{
+    {
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": "explicit"
+        },
+        "eslint.validate": ["javascript"],
+        "liveSassCompile.settings.formats": [
+            {
+                "format": "compressed",
+                "extensionName": ".min.css",
+                "savePath": "~/../css"
+              }
+          ]
+    }
+}
